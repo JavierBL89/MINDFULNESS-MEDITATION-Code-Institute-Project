@@ -75,7 +75,7 @@ Line 180 onwards  -Page content for Desktop.
 
 Line 325 onwards   -Media 1000px Common Features.
 
-Line 480 onwads    -Media 1000px Page Content.
+Line 480 onwards    -Media 1000px Page Content.
 
 Line 580 onwards   -Media 575px Common Features.
 

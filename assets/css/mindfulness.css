@@ -579,17 +579,6 @@ margin: 0 auto;
 
 @media (max-width: 575px){
 
-  .main-wraper{
-    text-align: center;
-    margin: 0 auto;
-    padding: 3% 7%;
-
-  }
-
-  .snapchat-mindfulness{
-    text-align: center;
-    margin: 0 auto;
-  }
   .burguer {
     position: absolute;
     right: 25px;
@@ -604,6 +593,17 @@ margin: 0 auto;
     height: 3px;
     margin: 6px 11px;
     border-radius: 15px;
+  }
+
+  .main-wraper{
+    text-align: center;
+    margin: 0 auto;
+    padding: 3% 7%;
+  }
+
+  .snapchat-mindfulness{
+    text-align: center;
+    margin: 0 auto;
   }
 
   .navbar-brand {
@@ -682,7 +682,6 @@ margin: auto 0;
   margin-left: 25px;
   margin-right: 25px;
    color: rgb(255, 179, 68);
-
 }
 
 /***** PAGE NAVIGATION ****/
@@ -702,7 +701,6 @@ font-size: 19px
   margin-right: 5px;
   font-size: 14px;
   text-align: center;
-
 }
 
 .separator-navigation-container{
